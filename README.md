@@ -1,6 +1,5 @@
 # Matchstick Man Battle
 
-------------------
 
 A simple pygame.
 
