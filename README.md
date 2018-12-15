@@ -5,9 +5,9 @@ A simple pygame.
 
 ### Operation
 
-##### Playre 1
+##### Player 1
 |key    |action   |
-|:-----:|:--------|
+|:-----:|:-------------|
 |w      |Up       |
 |a      |Left     |
 |s      |Down     |
@@ -16,9 +16,9 @@ A simple pygame.
 |g      |Attack 2 |
 
 
-##### Playre 2
+##### Player 2
 |key    |action   |
-|:-----:|:--------|
+|:-----:|:-------------|
 |↑      |Up       |
 |←      |Left     |
 |↓      |Down     |
